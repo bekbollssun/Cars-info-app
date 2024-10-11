@@ -1,0 +1,4 @@
+Car ID: 0001
+Car Model: BMW X5
+Year of Manufacture: 2020
+Price: 50000

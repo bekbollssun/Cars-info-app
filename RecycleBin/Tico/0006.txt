@@ -1,0 +1,4 @@
+Car ID: 0006
+Car Model: Ticolight
+Year of Manufacture: 1999
+Price: 2000

@@ -1,0 +1,4 @@
+Car ID: 0003
+Car Model: PORCHE 911
+Year of Manufacture: 2022
+Price: 14000$

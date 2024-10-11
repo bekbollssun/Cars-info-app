@@ -1,0 +1,4 @@
+Car ID: 0005
+Car Model: Mersedes Benz Brabus 500
+Year of Manufacture: 2012
+Price: 140000
